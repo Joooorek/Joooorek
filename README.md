@@ -1,5 +1,11 @@
 <h1 align="center">Hello, i`m Georgy</h1>
-<h3 align="center"></h3>
+<h3 align="center">Я Backend PHP Developer а также GLua Developer (немного). В основном я занимаюсь разработкой веб-сайтов с использованием авторизации посредствам сервиса Steam. Также я создаю карты на базе игры Garry`s Mod с использованием программы Valve Hammer Editor. В рамках level design я создаю различные ассеты: текстуры, модели и иногда звуки. Для этого я использую такие программы как: 
+- Blender 3.6<br>
+- VTFEdit<br>
+- Photoshop<br>
+- Substance Painter<br><br>
+В рамках GLua я создаю пользовательские интерфейсы а также не сложные серверные скрипты. <br><br>
+В данный момент я занимаюсь разработкой веб инфраструктуры для игрового проекта <a target="_blank" href="https://atroll.net/"> Alternative Trolleybus</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
